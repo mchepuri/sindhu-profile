@@ -1,0 +1,18 @@
+.app{
+  height: 100%;
+  width: 100%;
+}
+.logo{
+  width:150px;
+}
+@media screen and (max-width: 600px) {
+  .logo {
+      margin-top: 4px;;
+  }
+}
+:root {
+  --primaryFont: 'Poppins', sans-serif;
+  /* --primaryFont: 'Montserrat', sans-serif; */
+  /* --primaryFont: 'Raleway', sans-serif; */
+}
+
